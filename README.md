@@ -28,9 +28,9 @@ Login into the website and add item to the cart. Check that the correct item is 
 ## SETTING UP
 - using Git:
 ```
-git clone https://github.com/kapalinsky/UI_testing.git
+git clone https://github.com/kapalinsky/UI_automation_testing.git
 ```
- - Or download from [here](https://github.com/kapalinsky/UI_testing/archive/refs/heads/master.zip)
+ - Or download from [here](https://github.com/kapalinsky/UI_automation_testing/archive/refs/heads/master.zip)
 
 ## TEST EXECUTION
 For test executions please use Apache Maven command:
